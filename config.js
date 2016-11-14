@@ -4,6 +4,7 @@ var config = fwk.baseConfig();
 config['SILENT_CONFIG'] = true;
 
 config['INSTAGRAM_ACCESS_TOKEN'] = 'dummy-env';
+config['INSTAGRAM_CLIENT_SECRET'] = 'dummy-env';
 
 config['CRED'] = '\033[31m';
 config['CGREEN'] = '\033[32m';
